@@ -8,5 +8,5 @@ My List of Coding Resources
 - [General](/General/)
   - Can be anything
 - [Front-End](/Front-End/)
-  - Strictly UI; Buttons, Colors
+  - Mainly UI: Buttons, Colors
 - Back-End
